@@ -9,9 +9,9 @@ This project focuses on developing a machine learning-powered system to predict 
 For this project, two candidate datasets were considered, both containing synthetic, physics-informed data related to EV battery performance and health:
 
 1.  **EV Battery Failure Prediction Dataset (200K records)**: A larger dataset offering extensive data points for potential in-depth analysis.
-    *   Source: [Link to original source of 200K dataset, if available]
+    *   Source: [https://www.kaggle.com/datasets/sarveshchhetri/ev-battery-failure-prediction-dataset-200k]
 2.  **EV Battery Health Prediction Dataset (20K records)**: A more compact dataset, suitable for focused exploration and model development.
-    *   Source: [Link to original source of 20K dataset, if available]
+    *   Source: [https://www.kaggle.com/datasets/srisyra02/ev-battery-health-prediction-dataset-20k]
 
 ## Selected Dataset
 We have selected the **EV Battery Health Prediction Dataset (20K records)** for our project. This dataset offers a right-sized collection of data that is manageable for a university class project, allowing for thorough exploration, feature engineering, and model training without encountering excessive computational runtimes or resource constraints.
